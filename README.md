@@ -1,4 +1,4 @@
-# Truth
+# Solar System 3D
 <p align="center">
 The solar system created using Three.js. 
 <p align="center">
